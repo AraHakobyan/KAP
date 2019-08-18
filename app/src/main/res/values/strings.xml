@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KAP</string>
+    <string name="stream_application">Stream Application</string>
 </resources>
