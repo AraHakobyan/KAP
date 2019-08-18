@@ -1,4 +1,4 @@
-package com.example.kap.stream.login.view
+package com.example.kap.stream.login.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 
